@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ahoy mate", "Ahoy mate.csproj", "{3AD61181-6251-6443-74CB-18453E801AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ahoy mate.Plugins", "Ahoy mate.Plugins.csproj", "{EC845043-0064-CCEC-71BF-B5BD02A8CDF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ahoy mate.Editor.Plugins", "Ahoy mate.Editor.Plugins.csproj", "{EC61B3F4-ACEA-7C83-0607-83AD59E50D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD61181-6251-6443-74CB-18453E801AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD61181-6251-6443-74CB-18453E801AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD61181-6251-6443-74CB-18453E801AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD61181-6251-6443-74CB-18453E801AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC845043-0064-CCEC-71BF-B5BD02A8CDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC845043-0064-CCEC-71BF-B5BD02A8CDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC845043-0064-CCEC-71BF-B5BD02A8CDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC845043-0064-CCEC-71BF-B5BD02A8CDF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC61B3F4-ACEA-7C83-0607-83AD59E50D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC61B3F4-ACEA-7C83-0607-83AD59E50D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC61B3F4-ACEA-7C83-0607-83AD59E50D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC61B3F4-ACEA-7C83-0607-83AD59E50D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
